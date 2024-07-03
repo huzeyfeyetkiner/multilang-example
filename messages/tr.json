@@ -12,5 +12,10 @@
 	"NotFound": {
 		"title": "Sayfa bulunamadı",
 		"description": "Aradığınız sayfa bulunamadı"
+	},
+
+	"LocaleSwitcher": {
+		"label": "Dil değiştir",
+		"locale": "{locale, select, tr {🇹🇷 Türkçe} en {🇺🇸 İngilizce} other {Unknown}}"
 	}
 }
