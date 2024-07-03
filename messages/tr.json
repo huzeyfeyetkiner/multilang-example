@@ -1,0 +1,16 @@
+{
+	"Metadata": {
+		"title": "Merhaba / TR",
+		"description": "Çoklu dil desteği sağlayan web sayfası örneği"
+	},
+
+	"Index": {
+		"title": "Merhaba",
+		"message": "Çoklu dil desteği bulunan web sayfası örneğine hoş geldiniz"
+	},
+
+	"NotFound": {
+		"title": "Sayfa bulunamadı",
+		"description": "Aradığınız sayfa bulunamadı"
+	}
+}
